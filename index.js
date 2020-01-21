@@ -8,7 +8,7 @@ function sum(a,b){
     return a + b;
 }
 
-console.log(greet("Jose Francisco"));
+console.log(greet("Sumbo teste"));
 
 module.exports.sum = sum;
 module.exports.greet = greet;
