@@ -3,7 +3,8 @@ function greet(name){
 }
 
 function sum(a,b){
-    
+
+    // This are some comments that are supposed to go to the dev branch first
     return a + b;
 }
 
